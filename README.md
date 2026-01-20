@@ -42,7 +42,7 @@ The chest opening mechanism uses Task-based async operations with CancellationTo
 
 ## Build Instructions
 
-1. Open project in Unity 2022.3 or later
+1. Open project in Unity 6000.0.59f2
 2. File → Build Settings
 3. Select target platform
 4. Click "Build" or "Build and Ru
